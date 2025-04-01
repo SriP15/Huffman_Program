@@ -1,5 +1,5 @@
-# Assignment 6: Huffman Coding
-This assignment essentially simulates a Huffman Encoder. Given an input file, it compresses it (and can also decompress it.) This program is dependent on two main programs for its functionality: encode and decode. The file encode compressed the file, and decode decompresses it.
+# Huffman Coding
+This program essentially simulates a Huffman Encoder. Given an input file, it compresses it (and can also decompress it.) This program is dependent on two main programs for its functionality: encode and decode. The file encode compressed the file, and decode decompresses it.
 
 ## How to build the program:
 To build the program, type `$ make` or `$ make all`. This builds the two encode and decode programs. Optionally, typing `$ make encode`, and `$ make decode` builds the two programs individually.
